@@ -419,4 +419,4 @@ export default {
 
 ## Meta
 
-Created by Pedro Belo at [Lugg](https://lugg.com/).
+Created by Dev-Arrow
